@@ -1,3 +1,42 @@
 body {
-    color: snow;
+    background-color: wheat;
+}
+
+p, h3 {
+    color: #1a1a1a;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    text-decoration: bold;
+    text-align: center;
+}
+
+.friend-header {
+    text-transform: uppercase;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+.friend-song, .friend {
+    position: relative;
+    height: 75px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.organize {
+    position: relative;
+    margin: 0 auto;
+    height: 75px;
+    width: 1000px;
+}
+
+.tester {
+    position: relative;
+    margin: 0px;
+    padding-top: 25px;
+}
+
+.juleca, .alya, .rose {
+    background-color: cornsilk;
 }
